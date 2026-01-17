@@ -9,7 +9,7 @@ const meta = preview.meta({
   parameters: {
     layout: 'centered',
   },
-  tags: ['autodocs'],
+  tags: ['autodocs', 'atomic'],
   args: { onClick: fn() },
 });
 
@@ -25,6 +25,7 @@ export const Secondary = meta.story({
   args: {
     label: 'Button',
   },
+  tags: ['beta'],
 });
 
 export const Large = meta.story({
