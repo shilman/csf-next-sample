@@ -1,6 +1,6 @@
-# CSF Next Sample
+# CSF Next Demo
 
-[![CSF Next demo vieeo](image.png)](https://www.youtube.com/watch?v=UWqAKHL9AqY)
+[![alt text](image-1.png)](https://www.youtube.com/watch?v=UWqAKHL9AqY)
 
 The code used in a [demo video for CSF Next](https://www.youtube.com/watch?v=UWqAKHL9AqY), demonstrating:
 
