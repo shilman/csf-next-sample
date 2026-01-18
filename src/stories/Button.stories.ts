@@ -17,7 +17,7 @@ export const Primary = meta.story({
   args: {
     primary: true,
     label: 'Button',
-    backgroundColor: 'red',
+    // backgroundColor: 'red',
   },
 });
 
